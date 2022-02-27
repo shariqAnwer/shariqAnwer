@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shariqAnwer
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me shariqueanwer002@gmail.com
 
