@@ -1,3 +1,4 @@
+<img align="centre" src="https://media-exp1.licdn.com/dms/image/C5616AQGyyHk-ENxfbA/profile-displaybackgroundimage-shrink_350_1400/0/1644206148199?e=1652918400&v=beta&t=NoXs-MEOnF6PZ5wTcmuTUVwLEtLqYj_VZMbymXybECc" />
 <h1 align="center">Hi 👋, I'm Sharique Anwer</h1>
 <h3 align="center">I’m quite crazy but it’s all to bring out the creativity in me.</h3>
 
