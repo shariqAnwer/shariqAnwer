@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/sharique_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharique_26" height="30" width="40" /></a>
 <a href="https://medium.com/@shariqueanwer002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shariqueanwer002" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sharique-anwer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShariqueAnwer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
