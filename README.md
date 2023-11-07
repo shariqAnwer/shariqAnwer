@@ -1,6 +1,10 @@
 <img align="centre" height=340px width=100% src="https://media.proglib.io/wp-uploads/2019/01/React_developer.png" />
 <h1 align="center">Hi 👋, I'm Sharique Anwer</h1>
-<h3 align="center">I’m quite crazy but it’s all to bring out the creativity in me.</h3>
+<h3 align="center">Highly motivated and professional Frontend / ReactJS Developer with experience in providing high-level
+website development using technologies like ReactJS, Redux, etc. Proficient in managing calendars,
+organizing meetings, ability to learn things quickly and work in a fast-paced environment. Possess
+exceptional communication and interpersonal skills with a proven ability to work independently and as
+part of a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariqanwer&label=Profile%20views&color=0e75b6&style=flat" alt="shariqanwer" /> </p>
 
