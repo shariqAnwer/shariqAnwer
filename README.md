@@ -10,7 +10,7 @@ website development.</h3>
 <p align="left"> <a href="https://twitter.com/sharique_26" target="blank"><img src="https://img.shields.io/twitter/follow/sharique_26?logo=twitter&style=for-the-badge" alt="sharique_26" /></a> </p>
 
 - 🌱 **Full-Stack Web Development**
-- 👨‍💻 You can also check out my portfolio at [https://portfolio-shariqanwer.vercel.app/](https://portfolio-shariqanwer.vercel.app/)
+- 👨‍💻 You can also check out my portfolio at [https://portfolio-sharique-anwer.vercel.app/](https://portfolio-sharique-anwer.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@shariqueanwer002](https://medium.com/@shariqueanwer002)
 
