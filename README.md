@@ -38,4 +38,4 @@ website development.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariqanwer&show_icons=true&locale=en" alt="shariqanwer" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=shariqanwer&theme=dark" alt="shariqanwer" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=shariqanwer&theme=default" alt="shariqanwer" /></p>
